@@ -1,10 +1,10 @@
 #Assignment One
 
-##[Read about Main Features of Minimalist Web Design]
-(https://www.designcontest.com/blog/main-features-of-minimalist-web-design/)
+##Read about Main Features of Minimalist Web Design
+https://www.designcontest.com/blog/main-features-of-minimalist-web-design/
 
-##[Maybe you would like to watch a Video]
-(https://www.youtube.com/watch?v=JttTcnidSdQ)
+##Maybe you would like to watch a Video
+https://www.youtube.com/watch?v=JttTcnidSdQ
 
 ##Task: To make a Minimalist Website by Yourself
 Think of any design you would like, take inspiration from internet & make something useful.
